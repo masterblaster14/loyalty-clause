@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+audit_kit/battery_smoke.json
+results/smoke_*.json
+.claude/
+submission/
+SUBMISSION.md
